@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The misdemeanors of a traytor, and treasurer, discovered in the answer of Philip Francis, merchant: late major of the borough of Plimouth, in the county of Devon; to the false and scandalous aspersion, and accusation of Charles Vaughan, Gentleman.</title>
+            <author>Francis, Philip, of Plymouth, merchant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84860</idno>
+            <idno type="STC">Wing F2059</idno>
+            <idno type="STC">Thomason E258_13</idno>
+            <idno type="STC">ESTC R212480</idno>
+            <idno type="EEBO-CITATION">99871088</idno>
+            <idno type="PROQUEST">99871088</idno>
+            <idno type="VID">159238</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84860)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159238)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 44:E258[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The misdemeanors of a traytor, and treasurer, discovered in the answer of Philip Francis, merchant: late major of the borough of Plimouth, in the county of Devon; to the false and scandalous aspersion, and accusation of Charles Vaughan, Gentleman.</title>
+                  <author>Francis, Philip, of Plymouth, merchant.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jane Coe.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1644 [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1644 only; Thomason catalogue lists under 1645.</note>
+                  <note>Annotation on Thomason copy: "Jan: 14th".</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vaughan, Charles, --  gentleman --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159238:1" rendition="simple:additions"/>
+            <p>THE MISDEMEANORS OF A Traytor, and Treaſurer, DISCOVERED In the anſwer of PHILIP FRANCIS, MERCHANT: Late Major of the Borough of Plimouth, in the County of <hi>Devon;</hi> To the falſe and ſcandalous Aſperſion, and Accuſation of CHARLES VAUGHAN, Gentleman.</p>
+            <figure>
+               <figDesc>printer's device of Jane Coe</figDesc>
+            </figure>
+            <p>LONDON, Printed by JANE COE. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb facs="tcp:159238:2"/>
+            <pb facs="tcp:159238:2"/>
+            <head>The anſwer of <hi>Philip Francis</hi> Merchant late Major of the borrough of Plymouth, in the County of Devon, to the falſe and ſcandalous aſperſion and accuſation of <hi>Charles Vaughan</hi> Gentleman.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N July 1643. The ſaid <hi>Philip</hi> Francis being then Major of Plimouth, and having ſome jealouſie of Sir <hi>Alexander Corewes</hi> fidelity, then Governour of the Iſland near Plymouth, the ſaid
+<hi>Philip</hi> preſently by his Letters advertized the Parliament thereof, and deſired that the ſaid Sir <hi>Alexander</hi> might be removed from his Command, &amp; (to take from him all cauſe of jelaouſie) that <hi>Thomas Arondell</hi> Eſquire, a Member of the houſe of Commons then Governor of the Fort of Plimouth (where<g ref="char:EOLhyphen"/>in he demeand himſelfe with great honeſtie and integrity) might like<g ref="char:EOLhyphen"/>wiſe be called up with him, to attend the ſervice of the houſe. And the ſaid <hi>Philip</hi> not ſatisfied therewith, by the meanes and aſſiſtance of Captaine <hi>Richard Evons</hi> of Plimouth merchant, who had good in<g ref="char:EOLhyphen"/>terreſt and acquaintance with Captaine <hi>Iohn Hancok</hi> then a Sergeant, <hi>Beniandu, Fuge</hi> and others the principall men in the Iſland, next the ſaid Sir <hi>Alexander,</hi> and men very well affected to the Parliament, and well affected of the common ſouldiers there, ſent privately for them, made known to them his ſaid jealouſie; and deſired them to perſevere in their integrity and conſtancy to the cauſe, and to labour what in them lay, to keep the common ſouldiers conſtant to the Par<g ref="char:EOLhyphen"/>liament, and to be very vigilant and obſervant of the ſaid Sir <hi>Alex<g ref="char:EOLhyphen"/>ander,</hi> and of his actions, and to be carefull to ſecure the court of guard and Armes if cauſe were, and on any diſcovery, to give him notice thereof, and promiſed to reward them, and the ſouldiers, liberally for the ſame.</p>
+            <p>Auguſt the firſt 1643. Vpon receipt of the ſaid
+<hi>Philips</hi> letter it was <pb facs="tcp:159238:3"/>thus ordered by the Honourable the Houſe of Commons aſſembled in Parliament, viz. That Sir Alexander
+<hi>Carew,</hi> and Maſter Thomas Arundell doe forth with attend the ſervice of the Houſe, and that Maſter <hi>Roll,</hi> doe ſignifie ſo much unto them; but before the receipt of the ſaid order the jealouſies of the ſaid Sir <hi>Alexander Carew</hi> encreaſed, and the ſaid
+<hi>Philip</hi> was Preſt by ſome of the ſaid Town of Plymouth (unacquanted with the ſaid <hi>Philips</hi> proceedings therein) to ſecure the perſon of the ſaid <hi>Alexander,</hi> which the ſaid <hi>Philip</hi> making known to the Counſell of Warre then there, and there then appearing only matter of jealouſie, and no apparant cauſe of proofe againſt him (as is otherwayes but moſt falſly alleadged by Maſter <hi>Vaughan</hi>) and he being a Member of the Houſe of Commons, and the Parliament being ad<g ref="char:EOLhyphen"/>vertized thereof as aforeſaid, the ſaid Counſell adviſed the ſaid
+<hi>Philip</hi> to forbeare it untill he ſhould receive directions from the Par<g ref="char:EOLhyphen"/>liament in anſwer of his Letters, which the ſaid <hi>Philip</hi> made knowen likewiſe to the ſaid <hi>Hancock,</hi> who aſſured the ſaid
+<hi>Philip</hi> of the in<g ref="char:EOLhyphen"/>tegrity of the ſouldiers in the Iſland, and feared that the apprehen<g ref="char:EOLhyphen"/>ſion of the ſaid Sir <hi>Alexander</hi> then, without apparrent and good cauſe might give diſtaſte to them, which the Enemy lying then very neer, viz. at mount Edgcombe, might take advantage of, and therefore likewiſe wiſh the ſaid <hi>Philip</hi> to forbear it, the rather for that he alleag<g ref="char:EOLhyphen"/>ed, the ſaid Sir <hi>Alexander</hi> had ordered ſome at the Iſland, that if he were detained one the ſhoore at Plymouth, to make ſome ſigne towards the Corniſh ſhore for aſſiſtance thence.</p>
+            <p>Auguſt 20. 1643. The ſaid order and letter from Maſter
+<hi>Rolle</hi> be<g ref="char:EOLhyphen"/>ing delivered, the ſaid Sir <hi>Alexander</hi> he at firſt made ſhow as if he in<g ref="char:EOLhyphen"/>tended to obey the ſame, and promiſed to come on ſhore the next day, and perfect his accompts for his pay, but intended nothing leſſe, as was afterwards apparent which the ſaid
+<hi>Philip</hi> perceiving, and hear<g ref="char:EOLhyphen"/>ing that he had been at Mount Edgcombe, ſent one <hi>Timothy Alſop</hi> merchant unto him, to acquaint him that his pay due, and accompts were ready, deſiring him to come on ſhore reſolving to ſecure him if he came, which he promiſed to doe, but failed of, whereupon <hi>Francis Goodolphin</hi> a Member of the Houſe of Commons, and
+<hi>Iohn Sentabin</hi> Eſquire, were deſired by, the ſaid
+<hi>Philip,</hi> to repaire to the ſaid Sir <hi>Alexander</hi> to the Iſland, and to perſwade him to conforme to the ſaid order of Parliament, and to repaire to London, who not prevail<g ref="char:EOLhyphen"/>ing with him,</p>
+            <p>Auguſt 26. 1643. Maſter <hi>Wills,</hi> and Maſter
+<hi>Randall</hi> two Miniſters that uſed to preach there, were ſent to him to perſwade with him, and <pb facs="tcp:159238:3"/>to diſcover how the ſouldiers of the ſaid Iſland ſtood affected, who on their return made known, that they found the ſouldiers very faith<g ref="char:EOLhyphen"/>full, and that the ſaid
+<hi>Hancock</hi> with the reſt of the ſaid ſouldiers, had ſeized on the ſaid Sir <hi>Alexander,</hi> and ſecured the Armes in the Court of Guard, and that they deſired the ſaid <hi>Philip</hi> ſpeedily to come and take poſſeſſion of the ſaid Iſland, whereupon the ſaid <hi>Philip</hi> having thirty boates or thereabouts in readineſſe, well mand and Armed, which he had promiſed the ſaid <hi>Hancock,</hi> to have ſtill in readineſſe to aſſiſt him if need were, himſelfe in perſon went, which the ſaid boates to the Iſland where the ſaid ſouldiers delivered him, the ſaid Sir Alex<g ref="char:EOLhyphen"/>ander, whom he brought thence, and left the ſaid Captaine Richard Evons and others in his roome; diſplaced ſuch ſouldiers as there was jealouſie of, and ſatisfied the reſt the pay that was due to them, and promiſed them a gratuity anſwerable to their deſert.</p>
+            <p>Auguſt the 29. 1643. The ſaid <hi>Philip Francis</hi> adviſed the Parlia<g ref="char:EOLhyphen"/>ment of the premiſes in anſwer whereof he received the letter, and order following.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <opener>
+                           <salute>Sir,</salute>
+                        </opener>
+                        <p>YOur letters of the <hi>29.</hi> of Auguſt directed to your Burgeſſes here in Par<g ref="char:EOLhyphen"/>liament, had this day a publike reading in the Houſe, and upon a ſolemn and ſerious conſideration of the particuler contents thereof, the Houſe Voted the ſeverall orders here incloſed ſent you, they have alwayes acknowledged and taken notice of your great induſtry and circumſpection, by which your towne hath been preſerved from the greedy and violent attempts of the open Enemies to His Majeſtie, and the Kingdome; and now more particulerly from the ſecret and miſchievous treachery of a late Member of their owne Houſe, Sir <hi>Alexander Carew;</hi> by whoſe perfidious endeavours to betray his truſt, the Kingdome in generall and your towne in ſpeciall was in apparent danger to have ſuffered much in<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ury; the God that hateth treaſon, and ſeeth in ſecret, was pleaſed to uſe you as his inſtrument to ſecure that place, for which, as this houſe doth give due praiſes to him, and authorizeth your towne to ſet a part a publike day, in which to ſolemnize the ſame, ſo I am commanded by them to give and (by you to) all that aſsiſted you herein, their very hearty thankes, with which I ſubſcribe,</p>
+                        <closer>
+                           <signed>
+                              <hi>Your very loving friend <hi>William Lenthall</hi> Speaker.</hi>
+                           </signed>
+                           <dateline>
+                              <hi>Weſtminſter</hi>
+                              <date>
+                                 <hi>this fourth of September
+1643.</hi>
+                              </date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Ordered that a letter be written to the Major of Plimouth to thank him for his great paines and induſtry in ſecuring of the Iſle of Pli<g ref="char:EOLhyphen"/>mouth, <pb facs="tcp:159238:4"/>and that it be recommended unto the Major to take eſpeciall care of the ſecurity of that place, and that it be recommended unto the Major, that a particuler day may be ſet for a publike thankſgiving in the towne of Plymouth and that Maſter Major do reward ſuch as he had promiſed toward unto, and that the houſe will ſee him re<g ref="char:EOLhyphen"/>imburſed and Sir <hi>Iohn Young,</hi> and Maſter <hi>Waddon,</hi> are appointed to bring in an order for the indemnity of the Major and the reſt imploy<g ref="char:EOLhyphen"/>ed by him, all which appeared plainely upon the evidence againſt the ſaid Sir
+<hi>Alexander</hi> at his tryall, and which Sir <hi>Edmond Fowell</hi> Knight,
+<hi>Richard Eriſie,</hi> the ſaid Maſter <hi>Thomas Arandell,</hi> and Maſter <hi>Waddon,</hi> Members of the Houſe of Commons now in the towne, and privie to the aforeſaid paſſages can teſtifie; and therefore bluſh if you can, Maſter <hi>Vaughan,</hi> to charge the ſaid
+<hi>Francis</hi> ſo innocent herein, with ſo falſe and ſcandalous an aſperſion, of ſiding with the ſaid Sir <hi>Alex<g ref="char:EOLhyphen"/>ander,</hi> and comming at him, but the ſaid <hi>Charles</hi> in this as in all other his feits of activity hath a ſhift to excuſe himſelf, viz. That Col. <hi>Gould</hi> and others ſent up Articles againſt the ſaid Francis, by one
+<hi>Trottle</hi> whereof this was one; Tis very true, that the ſaid Colonell
+<hi>Gould,</hi> and Maſter <hi>Thomas Gewen</hi> (to colour their unjuſt impriſonment of the ſaid <hi>Francis,</hi> for refuſing to deliver to them certaine pearle of the Parliaments committed to his cuſtody as hereafter is expreſt) ſent up the ſaid Articles which the ſaid Trottle exhibited, and the ſaid <hi>Charles</hi> under hand preſented, but mauger all their malice after examination &amp; report made thereof, to the Honourable houſe of Commons, by an order of the ſaid Houſe of the thirty of May 1644. The ſaid <hi>Philip Francis</hi> was acquitted.</p>
+            <p>And whereas the ſaid <hi>Charles</hi> alleadgeth that after Sir
+<hi>William Wallers</hi> blow at the vizes the ſaid <hi>Philip</hi> fell off, from the right ſide to the ſaid Sir <hi>Alexander,</hi> and the knot of the
+<hi>Vtriuſques.</hi> Tis well known to be as falſe as the author of it, for the manifeſtation wherof to omit how the deſervingly the ſaid
+<hi>Philip</hi> demeand himſelf in ſeverall ſeiges againſt the ſaid towne of Plymouth during his Majoralty, in Decem<g ref="char:EOLhyphen"/>ber laſt, the ſaid
+<hi>Philip</hi> being out of his Majoralty and commanding then one of the townes of Plymouthes companies conſiſting of 150. men or thereabouts, in two ſeverall aſſaults drew his companie out of the ſaid towne, and with the aſſiſtance of ſome others: encountred the Enemy, and demeaned himſelfe ſo reſolutely, that he forced them in one of the ſaid encounters to fly ſhamefully, and to leave a great many of their horſe, men, and Ammunition behind them, and in the o<g ref="char:EOLhyphen"/>ther to retreat diſorderly and had then loſt their Ordnance had not they been drawen off that did the ſervice which in a pamphlet, is at<g ref="char:EOLhyphen"/>tributed to thoſe that were never guilty of it.</p>
+         </div>
+         <div type="answer__cont.">
+            <pb facs="tcp:159238:4"/>
+            <head>The further anſwer of the ſaid <hi>Philip</hi> to the ſaid VAUGHANS pretences for the detaining the Parliaments Pearl.</head>
+            <opener>
+               <date>
+                  <hi>September</hi> 30. 1644.</date>
+            </opener>
+            <p>THe ſaid <hi>Vaughan,</hi> being by Warrant from the Honourable the Houſe of Commons committed and continuning ſo ſtill, for deſobeying an order of the ſaid Houſe, and not delivering the ſaid <hi>Philip,</hi> for the uſe of the Parliament a quantity of Pearl of the Lord <hi>M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lbroroughes,</hi> in or about June 1643. Seized on by the Deputy Lieutenants and Committee in Plimouth which being of value and contained in Cabinet was ſealed up with ſeven of the ſeales of the ſaid Deputy Lieutenants and Commiſſioners, and by them delivered the ſaid <hi>Francis</hi> then Major, to be ſent to the Parliament, which the ſaid <hi>Philip</hi> making known to the Parliament, he was directed to ſend it for London and being bound there, reſolved to carry it himſelfe.</p>
+            <p>In February 1643. Colonell <hi>Gould,</hi> ſince deceaſed,
+<hi>Iohn Champnes</hi> Eſquire, and <hi>Thomas Gewen,</hi> the ſaid
+<hi>Vaughans</hi> brother in Law, and Deputy treaſurer required the ſaid
+<hi>Philip</hi> to deliver them the ſaid pearl which he refuſing to doe without order, they committed him to priſon detained him there two monethes or there abouts, ſearched his houſe, examined his ſervants on oath, and having at laſt got the ſaid pearl, broke open the ſaid Cabinet, and then convayed it to London, by one <hi>Peter Keckwich,</hi> in cloſe and ſecret manner directed to the ſaid <hi>Vaughan,</hi> where he and the ſaid
+<hi>Keckwich</hi> concealed it from the Parliament ten weekes or there abouts, and in that time got it to be prized at a very low value, and never intended to acquaint the Parlia<g ref="char:EOLhyphen"/>ment therewith as the ſaid <hi>Vaughan</hi> in his reply acknowledgeth, had not the ſaid <hi>Philip</hi> on his comming to London, made it known, and Mr. <hi>Vaughan</hi> pretends that Mr. <hi>Keckwitch</hi> disburſt 200 <abbr>l.</abbr> on the wheras ſaid pearl to the Committee for ſequeſtrations in Plymouth, and that he gave Mr. <hi>Keckwich</hi> at his return for Plymouth in <hi>May</hi> 1644. a re<g ref="char:EOLhyphen"/>ceipt under his hand for the ſame, that is apparantly untrue, for <hi>Keok<g ref="char:EOLhyphen"/>wich</hi> came to London in February 1643. and preſently on his coming to London, delivered the ſaid pearl to the ſaid <hi>Vaghan,</hi> and was by him adviſed to conceale it, as the ſaid <hi>Keckwich</hi> on his examination before the Lords and Commons Committee for plymouth aeknowledged and never made any pretence or claime there unto himſelf, and tis pro<g ref="char:EOLhyphen"/>bable that if he had depoſited any money thereon, and were ſo wary as to have a receipt for the ſaid pearl, that he would have taken his <pb facs="tcp:159238:5"/>receipt at the time of the delivery of the ſaid pearl, and not in May after at his going away, but the truth is, the pearl was ſent up to the ſaid <hi>Vaughan;</hi> and long after the delivery thereof, and before <hi>Keck<g ref="char:EOLhyphen"/>wiches</hi> going for Plymouth, viz. in Aperil 1644. the ſaid <hi>Vaughan,</hi> and <hi>Keckwich</hi> being both queſtioned for the ſame by the Committee of Lords and Commons for Plimouth, and the ſaid
+<hi>Vaughan</hi> fearing the ſaid pearl would be taken from him, and there being an order to view the ſame, firſt ſhifted himſelfe out of the way, and then ſhifted <hi>Keckwich,</hi> away, &amp; then ſets
+<hi>Kechwicks</hi> claim on foot &amp; the ſaid receipt; and Colonell
+<hi>Goulds</hi> Letter to Maſter <hi>Nicholas Gould,</hi> vouched by him in his reply, makes his pretence apparently falſe in ſeverall par<g ref="char:EOLhyphen"/>ticulers: as firſt, that the money (if any were) was taken up by Colonell <hi>Gould,</hi> and not by the Committee for ſequeſtrations; ſe<g ref="char:EOLhyphen"/>condly that Colonell
+<hi>Gould</hi> gave <hi>Keckwich</hi> bills of exchange for his ſecurity for the money, and not the pearl, and had the money been taken up for the State, as is pretended, the bills of exchange would have been charged on the Parliament or Committee for Plimouth, and not on Maſter <hi>Nicholas Gould,</hi> as is evident by the ſaid Letter; but the truth is that after Maſter
+<hi>Keckwich</hi> his comming to London, and before his returne Colonell
+<hi>Gould,</hi> that took up the money died, and <hi>Keckwich</hi> being in danger thereby to looſe his money, Maſter <hi>Vaughan</hi> would excuſe himſelf and ſalve, <hi>Keckwich</hi> with this ſhift, whereas tis well known, that there is a great deal of money due from the E<g ref="char:EOLhyphen"/>ſtate of the ſaid Colonell <hi>Gould,</hi> on accompt to the Parliament, who received divers great ſummes of money of the Parliaments, during his being in plimouth, and elſewhere, yet after the ſaid <hi>Philip Francis</hi> his Majoralty, paid not the commons ſouldiers, but made the inha<g ref="char:EOLhyphen"/>bitants of plimouth to maintaine them, at their own charge, and by the adviſe of the ſaid <hi>Gewen,</hi> as is more then probable, preſt the Committee in plymouth, and Deputy Lieutenants to ſearch every mans houſe in the towne, and to take from them by force all ſuch money and plate as ſhould be found in their houſes, if they would not part with it otherwiſe, &amp; wheras Mr. <hi>Vaughan</hi> pretends that the pro<g ref="char:EOLhyphen"/>ceed of the pearl the 200. <abbr>l.</abbr> deducted, ſhould be returned to plymouth for to pay the ſouldiers tis apparent that nothing leſſe was intended for they prized it but at 273. <abbr>l.</abbr> for which before it came to their fingers, there was 800. <abbr>l.</abbr> proffered in plymouth, and in their inventory ſent up, which Maſter
+<hi>Vaughan,</hi> ſhewed the ſaid Lords and Commons Committee againſt divers of the chaines and bracelets mentioned therein, the Letters <hi>W. G.</hi> were ſet; which parcels it ſeems Colonell <pb facs="tcp:159238:5"/>
+               <hi>William Gould</hi> was to have upon the pertiſtion for his part had he li<g ref="char:EOLhyphen"/>ved, and what is become of the other parts, is proper for one of Maſter
+<hi>Vaughans</hi> queries, but it is apparent the Garriſon of
+<hi>Plymmouths</hi> part had been the leaſt thereof.</p>
+            <p>But Maſter <hi>Vaughan</hi> would excuſe his concealement of the pearl from the Parliament ten weeks, for that Mr. <hi>Keckwich</hi> was abſent in the North ten dayes or thereabouts: and yet Mr. <hi>Vaughan</hi> had the pearle long be<g ref="char:EOLhyphen"/>fore in his cuſtody, and it is apparent never intended the Parliament ſhould know of it; but to have ſold it as he confeſſeth in his reply, <hi>viz.</hi> that he held it not fit to trouble the Committee with it, for that ſeque<g ref="char:EOLhyphen"/>ſtrators have power to ſell things ſequeſtred by them; but this was not ſequeſtred by them, but ſeized, ſealed up and delivered to the ſaid <hi>Fran<g ref="char:EOLhyphen"/>cis,</hi> to be ſent to the Parliament by the Committee and Deputy Lieute<g ref="char:EOLhyphen"/>nants in <hi>Plymmouth</hi> as aforeſaid, foure of which Committee and De<g ref="char:EOLhyphen"/>puty Lieutenants were likewiſe Commiſsioners for ſequeſtrations, <hi>viz.</hi> Sir <hi>Edmond Fowell,</hi> Sir <hi>Shilſton Calmady</hi> Knights, <hi>Robert Savery</hi> Eſquire, and the ſaid <hi>Philip Francis;</hi> and none of them aſſented to the taking of it from the ſaid <hi>Francis.</hi>
+            </p>
+            <p>But Maſter <hi>Vaughan</hi> ſayes that the Lord Admirall claimes an intereſt in the pearle; that will not excuſe Maſter
+<hi>Vaughans</hi> contempt to the Par<g ref="char:EOLhyphen"/>liament certainly, what part his Lordſhip hath therein, the Parliament is ſo juſt, that they will not detain; and his Honour is ſo Noble, that he will not demand any thing that is not undoubtedly his, who is now in the towne; and therefore Maſter
+<hi>Vaughans</hi> pretence to keep the pearle untill his Lordſhips comming to the towne failes, but it is evident by concealement and reſolution to diſpoſe of it, that he intended to deceive his Lordſhip thereof; but it is alleadged that Mr. <hi>Francis</hi> gave out as if part of the pearle were imbezelled by Collonell <hi>Gould.</hi>
+            </p>
+            <p>It is moſt true (that the pearl being conceived to be better worth then 800. <abbr>l.</abbr> in <hi>Plymmouth,</hi> before it came to Mr.
+<hi>Vaughan,</hi> Mr. <hi>Gewens,</hi> and Mr. <hi>Kechwiches</hi> hands, and by their apprizement, valued but at —273. <abbr>l.</abbr> as a<g ref="char:EOLhyphen"/>foreſaid; and the Inventory taken at <hi>Plymmouth</hi> by the Commiſſioners and Deputy Lieutenants afore hand being very briofe,
+<hi>viz.</hi> ſo many ſtrings, ſo many chaines, and ſo many brazelets, without mentioning the weight, quantity, quality, or number of pearls in every ſtring, chain, or braſlet; which the pearle being ſealed up as aforeſaid, was conceived ſufficient: but being broken open, the ſaid
+<hi>Philip Francis</hi> ſaid, and ſaith ſtill, that if halfe the pearle were taken away, <hi>viz.</hi> halfe in every linke, chaine, and braſlet, it would not appeare by that Inventory, and beleiveth that there hath been jugling therein, but by whom he cannot ſay; but as for Colonell <hi>Gould</hi> he never reported it, nor doth hee beleive it; and <pb facs="tcp:159238:6"/>whereas Mr.
+<hi>Vaughan</hi> alleadgeth that hee was not acquainted with the praizing of the pearl, untill after he had the pearle in his cuſtody, and therefore it is apparent it could not be done on view, without his privi<g ref="char:EOLhyphen"/>ty; and whereas he ſuſpects the ſaid <hi>Francis</hi> intended to get the pearle for himſelf, though there be more mony due to the ſaid <hi>Francis</hi> from the Parliament, then his fortune and credit can well ſubſiſt with to for<g ref="char:EOLhyphen"/>beare; and therefore in a faire and honeſt way hee hath indeavoured to be ſatisfied thereof (which the ſaid <hi>Vaughan</hi> labours to hinder, as is evi<g ref="char:EOLhyphen"/>dent) yet in the proſecution of this buſineſſe, the chiefe ayme and deſire of the ſaid <hi>Philip</hi> hath been, that the Parliament might not be deceived thereof, as it is apparant was intended; and what is ſet forth in the ſaid <hi>Francis</hi> his anſwer, touching the carriage of the ſaid
+<hi>Keckwich,</hi> will bee made good; to uſe Mr. <hi>Vaughans</hi> owne language with a reſerve.</p>
+         </div>
+         <div type="answer__cont.">
+            <head>The further anſwer of the ſaid <hi>Philip,</hi> to the Reply of the ſaid CHARLES VAUGHAN, and the exceptions taken to the accompt of the ſaid <hi>Philip.</hi>
+            </head>
+            <p>MAſter <hi>Vaughan</hi> at firſt took 14. exceptions to the accompt of the ſaid <hi>Philip,</hi> given to the accomptants of the Kingdom, and conclu<g ref="char:EOLhyphen"/>deth that his aforeſaid 14, exceptions being all allowed, there reſts due to the Parliament from the ſaid <hi>Francis</hi> 750
+<abbr>l.</abbr> as 9 <abbr>d.</abbr> which the ſaid <hi>Francis</hi> having fully anſwered; Mr. <hi>Vaughan</hi> replies only to the firſt and laſt exceptions, and waves all the reſt, yet makes the ſumme reſt ſtill, and gives reaſon for it, <hi>viz.</hi> that he hath a reſerve, which is very true, and a very great one of the States mony: or he is very much belyed; un<g ref="char:EOLhyphen"/>leſſe he have tranſported or made it beyond Sea, as it is ſaid he hath.</p>
+            <p>To avoid miſ-recitall which he chargeth the ſaid
+<hi>Francis</hi> with, but how materially, <hi>ſit liber Iudex.</hi>
+            </p>
+            <p>The firſt exception is, that there is no mention made of 1700.
+<abbr>l.</abbr> at leaſt, aſſeſt on Mr. <hi>Kelland</hi> Mr.
+<hi>yard.</hi> Mr. <hi>Hody,</hi> and Mr. <hi>Gyles,</hi> for which he is li<g ref="char:EOLhyphen"/>able, they being in his cuſtody, and freed by him.</p>
+            <p>The anſwer is, that the ſaid Mr. <hi>Kelland,</hi> Mr.
+<hi>yeard,</hi> Mr. <hi>Hody,</hi> and one <hi>Gyles Luman,</hi> in or about
+<hi>September</hi> laſt was twelve-moneth, were ſent priſoners from Dartmouth to Plymmouth, and detained there in the Marſhalſey, and the towne of Plimmouth being then neceſſitated for mony to pay the ſouldiers, and threatned with a ſiege, which followed very ſhortly, and the Gentlemen being very ſickly, and the priſon infe<g ref="char:EOLhyphen"/>ctious, it was conceived fit by the Councell of warre then there, to compound with them, and take 800.
+<abbr>l.</abbr> of them for their liberty, which was done accordingly, whereof
+300. <abbr>l.</abbr> was ſent by order to Dartmouth <pb facs="tcp:159238:6"/>to pay the Garriſon there, and the other 500. <abbr>l.</abbr> was payd to <hi>Timothy Al<g ref="char:EOLhyphen"/>ſop</hi> of Plymmouth Merchant then Treaſurer there, to pay the Garriſon in Plymmouth, for which he is to be accomptable; and the ſaid
+<hi>Philip Francis</hi> received not one penny thereof, and therefore ought not to bee ch<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rged there withall.</p>
+            <p>Mr. <hi>Vaughan</hi> in his reply acknowledgeth the ſaid 300.
+<abbr>l.</abbr> to be paid to Dartmouth, and the 500. <abbr>l.</abbr> to Mr.
+<hi>Alſop,</hi> and denies not the clearing of them as aforeſaid (though he make ſome queries thereon, which will be anſwered hereafter) yet he thinks it fit that the ſaid <hi>Francis</hi> ſhould be re<g ref="char:EOLhyphen"/>ſponſible, for the full ſumme aſſeſt on them; (and why) becauſe they were diſcharged illegally; no, but becauſe he and his deputy fingered no part of the mony; But he objects, that none have power to abate aſſeſſe<g ref="char:EOLhyphen"/>ments but 3. of the Commiſſioners at leaſt, Sir <hi>Shilſton Colmady</hi> Knight,
+<hi>Robert Savery</hi> Eſquire, and the ſaid <hi>Philip Francis,</hi> 3. of the ſaid Coun<g ref="char:EOLhyphen"/>cell of Warre, were Commiſſioners for aſſeſſements, and diſcharged them out of priſon, but not of their aſſeſſements; but took 800. <abbr>l.</abbr> in part for the reaſons aforeſaid, and the reſt they are liable to ſtill.</p>
+            <p>Maſter <hi>Vaughans</hi> new objections not formerly anſwered, according to his owne method ſhall be drawne into queries, wherein Mr.
+<hi>Vaughan,</hi> ſince you deſire to have truth ſpoken, be not offended when you hear it.</p>
+            <p n="1">1 <hi>Qu.</hi> Why the ſaid <hi>Francis</hi> refuſed to joyn with the Commiſſioners for aſſeſſements, they wanting money to pay the ſouldiers?</p>
+            <p n="1">1 <hi>An.</hi> The ſaid <hi>Francis</hi> was then Major, and his multiplicity of buſi<g ref="char:EOLhyphen"/>neſſe would not give him leave to attend it conſtantly, and there were a ſufficient number of Commiſſioners to ſit beſides himſelfe, yet diverſe times he did ſit with them.</p>
+            <p n="2">2 Maſter <hi>Gewen</hi> Mr. <hi>Vaughans</hi> deputy, carried himſelf ſo peremptorily, &amp; partially, not hearkning to the adviſe of the reſt of the Commiſſioners, but caſing his friends, and laying ſuch immoderate rates on others, that divers miſerably ended their dayes there in priſon; which his harſh dea<g ref="char:EOLhyphen"/>ling, loſt the hearts of divers that formerly ſtood well affected to the Parliament, and diſhartned the ſaid <hi>Philip</hi> from accompanying him, ſo of<g ref="char:EOLhyphen"/>ten as other wayes he ſhould?</p>
+            <p n="2">2 <hi>Qu.</hi> Why the ſaid <hi>Francis</hi> was unwilling the ſaid Mr. <hi>Kelland,</hi> Maſter <hi>yeard,</hi> Mr. <hi>Hoddy,</hi> and Mr. <hi>Lowman,</hi> ſhould be impriſoned in the mar<g ref="char:EOLhyphen"/>ſhally at Plimouth, and why he wold have had them removed thence.</p>
+            <p>
+               <hi>Anſw.</hi> The Calenture raigned much then in the ſaid priſon, and they were ſickly, and the ſaid <hi>Philip</hi> feared they would die there, and then their whole aſſeſſements had been loſt, and therefore he would have had them impriſoned in ſome place of ſafety not infected.</p>
+            <p n="3">3 <hi>Qu.</hi> Why the ſaid <hi>Francis</hi> moved the reſt of the ſaid Commiſſioners to take 500. <abbr>l.</abbr> of the ſaid Gentlemen?</p>
+            <pb facs="tcp:159238:7"/>
+            <p>
+               <hi>Anſw.</hi> The ſaid <hi>Francis</hi> hearing that the ſaid <hi>Gewen</hi> had an intention to ſend the ſaid Gentlemen to Dartmouth which was taken within few dayes after by the enemy, and hearing that Colonell <hi>Gould</hi> owed the ſaid Mr. <hi>Kelland</hi> 1000.
+<abbr>l.</abbr> by bond, and that the ſaid Mr. <hi>Kelland</hi> was often profered both at Dartmouth, and Plimouth, that if he would deliver up his ſaid bond, they ſhould be all freed, and then the ſouldiers at Plimouth who were in great want had not had any part of the ſaid money, true it is, he ſaid he had rather take 500. <abbr>l.</abbr> of them then ſuffer them ſo to be diſ<g ref="char:EOLhyphen"/>charged, but preſt ſtill to get aſmuch of them as might be, and conceives that what he and the other Commiſſioners did therein, was very juſtifi<g ref="char:EOLhyphen"/>able and fair, without any of Mr. <hi>Vaughans</hi> privie or cloſe ſtrickt dealing, and more juſtifiable then Mr. <hi>Gewens</hi> taking of Sir <hi>Iohn Speccet,</hi> and o<g ref="char:EOLhyphen"/>thers of great worth, neer a quarter part of their aſſeſſements, and where<g ref="char:EOLhyphen"/>as he pretends that the ſaid
+<hi>Francis</hi> and Mr. <hi>Iohn Cawes</hi> were indebted to the ſaid Mr.
+<hi>Kelland,</hi> the ſaid <hi>Francis</hi> oweth not a peny, and what the ſaid <hi>Cawes</hi> oweth he knoweth not.</p>
+            <p>
+               <hi>Qu.</hi> 4 Why the ſaid <hi>Francis</hi> would not ſuffer the ſaid <hi>Gewen</hi> to receive any part of the ſaid 800.
+<abbr>l.</abbr>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The ſaid money was diſpoſed of by order of the ſaid Counſell of War, that cleared the ſaid Gentlemen, and the reaſons that moved them not to truſt the ſaid <hi>Gewen</hi> there, which were as the ſaid <hi>Philip</hi> conceiveth theſe.</p>
+            <p n="1">1. The ſaid <hi>Gewen</hi> is known to be a man of a low fortune and is much en<g ref="char:EOLhyphen"/>debted to the State as is beleeved, not only for the money he received in Plimouth for aſſeſſements and ſequeſtrations, but alſo for the priſage of wines, for the which he hath given no accompt at all, and being requited by the Committee in Plimouth, to accompt, refuſed the ſame; for that he was Maſter <hi>Vaughans</hi> Deputy and ought to accompt to none but him, and Mr. <hi>Vaughan</hi> he being preſt to accompt, he pretends he hath loſt his accompts, and it ſeemes by his reply would have the ſaid <hi>Francis</hi> to favour him ſo much as to accompt for him, for he, (tis apparant) never intends it himſelfe.</p>
+            <p n="2">2 For that the ſaid Maſter <hi>Gewen,</hi> having money in his hands and the ſouldiers wanting pay, refuſed to iſſue it out according to order, on pre<g ref="char:EOLhyphen"/>tence that he kept it to diſcharge engagements at Exon, ſeldome obeying any orders for payment alleadging he would pay whom he liſt, and when he liſt, and what he liſt, and was at laſt growne to the height of pride that he ſlighted the Honourable <hi>William Lenthals</hi> the Speaker of the Houſe of Commons his Letter, that ordered him to make payment of monies in his hands.</p>
+            <p n="3">3 The fidelity and integrity of the ſaid <hi>Gewen</hi> to the Parliament, and <pb facs="tcp:159238:7"/>cauſe was queſtioned, it being knowne that without leave of the Gover<g ref="char:EOLhyphen"/>nour he held intelligence and intercourſe by Letters with <hi>Peter Sentiall</hi> Eſquire a great Malignant, then with the enemy, one of them excepted in the Propoſitions for Peace, who was joyned Steward of the Stannery in De<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, with the ſaid <hi>Vaughan,</hi> and Maſter <hi>Gewen</hi> their Deputy, untill the incroachments of the ſaid Court, and oppreſſions, vexations, and other abuſes of the Subject therein, were by act of this Parliament re<g ref="char:EOLhyphen"/>formed, and then they that could not fiſh but in fowle water left it, and the ſaid <hi>Philip</hi> is ſince much confirmed in his opinion thereof, for that the ſaid <hi>Gewens</hi> Eldeſt Sonne would have runne from Plym<g ref="char:EOLhyphen"/>mouth to the enemy, and perſwaded one Captaine
+<hi>Stener</hi> to goe with him, promiſing him that he would procure him a ticket, and that his Fathers man ſhould bring him a horſe without the workes, and the ſaid <hi>Philip</hi> hath beene lately informed, that
+<hi>Nicholas Roe,</hi> Maſter <hi>Gew<g ref="char:EOLhyphen"/>ens</hi> Sonne in Law, is diſcovered to have held intelligence by Letters, with Sir <hi>Richard Grenvils</hi> Secretary.</p>
+            <p>The other exception (viz.) the 14. is that Mr. <hi>Francis Cranes</hi> allow<g ref="char:EOLhyphen"/>ance for 11. ſeverall other mens accompts and for the uſe of the money 2023. <abbr>l.</abbr> 5 <abbr>s.</abbr> 11. <abbr>d.</abbr> whereas the ſeverall perſons ought to give in their own accompts themſelves upon their oathes, to which and divers other things not fit to be allowed, he ſubſcribes this <hi>Philip Francis</hi> errours excepted, and ſweares unto it, ſo as he may ſweare truly, and yet his accompts be falſe.</p>
+            <p>The ſaid <hi>Francis</hi> in his anſwer to the eight exception having ſet forth that one the exhibiting of his accompts, he made known to the accompt<g ref="char:EOLhyphen"/>ants of the Kingdome, that his accompts had dependancy on other mens accompts, and that he had paid money to ſeverall perſons, and promiſed payment to others, which they had disburſed for the Parliaments ſervice, and which they were to be accomptable for, and that thereupon the com<g ref="char:EOLhyphen"/>miſſion was ordered by the ſaid accomptants, to be ſent to Plimouth, di<g ref="char:EOLhyphen"/>rected to a ſubcommittee to audit the ſaid accompts, before the affecting of the ſaid <hi>Philips,</hi> which the ſaid <hi>Philip</hi> was informed by the ſaid ac<g ref="char:EOLhyphen"/>comptants, was ſent away accordingly, and which the ſaid Mr. <hi>Vaughan</hi> knew, &amp; in his reply ſince acknowledgeth; he anſwers the ſaid fourteenth exception thus.</p>
+            <p>The ſaid <hi>Philip</hi> chargeth 200. <abbr>l.</abbr> only for intereſt which he is to pay, and much more, And a ſubcommittee is appointed to take the accompts of the ſaid accomptants as is aforeſaid; and the truth is, there is but 200. <abbr>l.</abbr> charged for intereſt, and the reſt due on the other 14. mens accompts, make up the reſidue of the ſaid 2023.
+<abbr>l.</abbr> 5 <abbr>s.</abbr> 11. <abbr>d.</abbr> and the ſaid
+<pb facs="tcp:159238:8"/>
+               <hi>Philip</hi> wonders that ſo noted a vſurer as the ſaid
+<hi>Vaughan,</hi> who hath grounded the faces and fortunes of ſo many poore ſoules, that have falne into his hands by forfeitures, ſhould take this exception, unleſſe he hath left the memory of all his hard dealing in that kind, with his accompts in the Countrey.</p>
+            <p>The ſubſcription errors excepted, the ſaid <hi>Francis</hi> anſwers this, that he concludes his accompts as all Merchants doe, and if Mr.
+<hi>Vaughan</hi> knew as well to accompt for the mony he receives as he doth to receive it, he would not take this exception: and whenſoever he will give in his accompt for 80000. <abbr>l</abbr> or thereabouts, which hee hath received of the States mony, and given no accompt of the ſame, on pretence that hee hath look his accompts, it is wiſhed that there bee no greater errors found therein the ſaid <hi>Philip</hi> is informed that divers of the accompts delivered the ſaid accomptants for the Kingdome, eſpecially by Mer<g ref="char:EOLhyphen"/>chants, are ſubſcribed in the like kind, and no exception taken to any, or by any, but by Mr. <hi>Vaughan:</hi> who ſhewes his teeth, and what hee would doe had he power; but it is objected, that ſuch a ſubſcription in Chancery or any other Court were not good, the ſaid <hi>Francis</hi> acknow<g ref="char:EOLhyphen"/>ledgeth himſelfe to be a Merchant, and ignorant in the Law: and meant plainly and honeſtly when he delivered in his accompts, and knowes no error therein, and took the oath without any equivocation or evaſion; and conceives that the clauſe errors excepted it is uſed by Merchants in their accompts, to avoid wrong and injury which might otherwiſe be<g ref="char:EOLhyphen"/>fall either party, and not introduce deceipt or knavery, as Mr. <hi>Vaughan</hi> would have it: and that it is to be conſtrued of errors, of ignorance, and miſpriſion, and not of witting and willing ones; And whereas hee ob<g ref="char:EOLhyphen"/>jects, that the ſaid
+<hi>Francis</hi> had Armes of his providing for the Parlia<g ref="char:EOLhyphen"/>ment, which he hath not accompted for, the ſaid <hi>Francis</hi> never received any Armes from him, but the Lord Admirall ſent ſome to Plymmouth, which were put in the Magazine there, ſome part whereof ſome of the Town ſouldiers that wanted Armes, had; which the Keepers of the Ma<g ref="char:EOLhyphen"/>gazine are to be accomptable for, the reſidue his deputy Mr. <hi>Gewen</hi> diſ<g ref="char:EOLhyphen"/>poſed of, and 400.
+<abbr>l.</abbr> ſecuritie for, and is to be accomptable for, but the 80000.
+<abbr>l.</abbr> unaccompted for, is that which ſticks in Mr.
+<hi>Vaughans</hi> ſtomack, and hath produced his reply with an accompt, but it is only of his diſ<g ref="char:EOLhyphen"/>burſements, for the Parliament, of which he hath a paſſing good memo<g ref="char:EOLhyphen"/>ry, but of his Receipts a moſt treacherous one, wherein not to take no<g ref="char:EOLhyphen"/>tice of what is detained from him, it being the common calamity of the Parliaments friends in theſe times, nor what he ſtands ingaged for the Parliament, the ſaid <hi>Francis</hi> were he vainglorious, being able to make it appeare that his ingagements are far greater for the Parliament then his now, which he hath adventured on the Iriſh Land, he being ſo well ſe<g ref="char:EOLhyphen"/>cured <pb facs="tcp:159238:8"/>for it, ſave only that he ſet it downe as ſo materiall and obſerveable that he paid all the money, which it ſeemes is rare with him, for tis ſaid that in Exon he paid the ſouldiers half, and took receipts for the whole that was due to him; but his modeſtie in expreſting his third disburſe<g ref="char:EOLhyphen"/>ment is note worthy, for whereas he might as well have charged all the principall money due to him, which grown uſe upon uſe, <hi>In infinitem</hi> (unleſſe he have left his old trade) as what he doth, yet he chargeth it thus (viz.) lent on the propoſitions and freely, to ſeverall eminent per<g ref="char:EOLhyphen"/>ſons, to lend to the ſame uſe of 620.
+<abbr>l.</abbr> and with ſuch like accompts the Parliament may be made debted to Maſter <hi>Vaughan</hi> on accompt, as he al<g ref="char:EOLhyphen"/>leadgeth, not otherwiſe.</p>
+            <p>Maſter <hi>Vaughans</hi> delatorie pleas to excuſe himſelf from accompting, are two, firſt, he denies that he hath received half the ſum of 80000 <abbr>l.</abbr> for he received none of the aſſeſſements in Dartmouth, Plimouth, and Barneſ<g ref="char:EOLhyphen"/>ſtaple, and Mr. <hi>Leach</hi> the Commiſary received likewiſe ſome aſſeſſements.</p>
+            <p>The leſſe money Maſter <hi>Vaughan</hi> hath received, the eaſier accompt is made; but he in his reply to entitle himſelfe to the pearl, ſtiles himſelfe treaſurer for ſequeſtrations in the County of Devon, and Mr. <hi>Gewen</hi> his Deputy, and by the Ordinance of the 17. of January 1642. the ſaid <hi>Vau<g ref="char:EOLhyphen"/>ghan</hi> is appointed treaſurer for aſſeſſements for Devon, and Mr. <hi>Leach</hi> and they that received the aſſeſſements and ſequeſtrations in Dartmouth and Barneſtaple, were likewiſe his Deputies, and the principall officer is an<g ref="char:EOLhyphen"/>ſwerable for his Deputy, and for ſuch money as he ſhall receive, which Mr.
+<hi>Gewen</hi> well underſtood (it ſeems) when he refuſed to accompt, for that he was Mr. <hi>Vaughans</hi> deputy, and ought to accompt only to him, ſo that, that ſhift will not ſerve Maſter <hi>Vaughans</hi> turne.</p>
+            <p>His other is, that he left his books of accompts behind him, which were taken by the Enemy, after Exceſter was yeelded, and that his mans horſe &amp; cloak-bag &amp; his mony was taken away within a mile of Exon, ſo that had he brought the ſaid accompts they had bin taken alſo. Mr.
+<hi>Vaughan</hi> &amp; his man might have come out of Exceſter in company with the Earl of <hi>Stam<g ref="char:EOLhyphen"/>ford</hi> &amp; then they had paſſed very ſafely &amp; ſecure as the reſt of the ſaid Earls company did, but Mr.
+<hi>Vaughan</hi> did divine that his man would loſe his cloak-bagge and therefore left his accompts behind him, and he had rea<g ref="char:EOLhyphen"/>ſon, for thereby he did the Enemy and himſelfe a curreſie, the Enemy in leaving not only his books of receipt with them, but marginall notes thereon, if he be not belyed, what every one of the Parliaments friends in thoſe parts had any way done for them, which the Cavaliers make per<g ref="char:EOLhyphen"/>nicious uſe of againſt thoſe perſons; he likewiſe pleaſured himſelf there<g ref="char:EOLhyphen"/>by not only ingratiating himſelf with them, but excuſing himſelf thereby as he conceives, from ever accompting with the Parliament, for the vaſte ſums of money he hath received of theirs; and that this is more then pro<g ref="char:EOLhyphen"/>bable, <pb facs="tcp:159238:9"/>take a paſſage or two of his being Treaſurer, during the ſiege at the Ci<g ref="char:EOLhyphen"/>ty of Exon, which I have from very good hands; The Souldiers being much arcre of their pay, and by reaſon thereof divers of them running to the Enemie, and there being a great quatitie of Plate of the Parliaments in the ſaid City, in the Treaſurers Cuſtodie, or his under Officers, ſufficient to have ſatisfied them, and there being one <hi>William Gobell,</hi> of the Mint ſent thither by the Parlia<g ref="char:EOLhyphen"/>mint to Coine the ſaid plate, the ſaid
+<hi>Vaughan</hi> would not permit him to do it, but ſent the ſaid
+<hi>William Gobell</hi> away, and left the ſaid plate intire, in the ſaid city, to the Enemie on the ſurrender therof, &amp; in the beginning of the ſaid ſiege on pretence that there was not ſufficient pay for the Souldiers, you within the City kept out a great part of Sir <hi>Henry Ruſſels</hi> Regiment, who would willingly have adventured their lives for the Parliament, in the defence of the ſaid City, and who were afterwards enforced to ſerve againſt the ſaid City, and a princi<g ref="char:EOLhyphen"/>pall means of the loſſe thereof, and therefore tis not impoſſible he ſhould be guil<g ref="char:EOLhyphen"/>ty alſo of this good, or rather ill Office, of leaving his accounts for them; But Mr. <hi>Vaughan</hi> muſt have ſome better ſhift to palliate his Pollicie then this, or elſe he will appeare naked and naught, for tis well knowne, that all accountants of ſuch conſiderable ſums, receive and pay by their ſervants, as he did, and have Copies, Tranſcripts, Breviates and Abſtracts of their Accounts, that their ſer<g ref="char:EOLhyphen"/>vants may not deceive them, which are very portable, and by which Maſter <hi>Vaughan</hi> might account if he had a minde to it, and tis apparant by his excep<g ref="char:EOLhyphen"/>tions, and the Account of his Disburſtments, that he hath ſuch a coppie or ab<g ref="char:EOLhyphen"/>ſtract, for he can ſet down what he hath paid to any for the Parliament to a pen<g ref="char:EOLhyphen"/>ny, as for inſtance, in his fifth Exception he ſets downe what he had paid Co<g ref="char:EOLhyphen"/>lonell
+<hi>Harbert,</hi> and onely forgot to deduct 3. <abbr>l.</abbr> which his Servant, or rather ſet<g ref="char:EOLhyphen"/>ter, had of him, as the Colonell affirmes before he could get it.</p>
+            <p>But Maſter <hi>Vaughan</hi> alleadgeth that three moneths ſince, to ſhew his unſained deſire to have his accounts againe (which hee well knowes will never be) by petition he propoſed to the Honourable Committee of Plimoth, ſome meanes to have them againe, and then, let Maſter
+<hi>Francis</hi> do his Worſt; A fine fetch to de<g ref="char:EOLhyphen"/>lude the world, delay his accounting, and to get (as tis ſaid) ſome part of ſome Malignants eſtate into his ſingers, but tis hoped that he will not be truſted fur<g ref="char:EOLhyphen"/>ther, that hath no better diſcharged the truſt already repoſed in him.</p>
+            <p>The Neceſſarie vindication of his Credit, and Reputation, which no honeſt man is ſo unnaturally Cruell to, as not to maintaine, hath enforced the ſaid <hi>Francis</hi> to this defence, which he hopes (as formerly) will give ſatisfaction to all honeſt men, (notwithſtanding any thing alleadged by Maſter <hi>Vaughan</hi> to the contrary) that his accounts are Juſt and true, and himſelfe free from a ſcandalous aſperſion raiſed by him.</p>
+            <closer>
+               <signed>Philip Francis.</signed>
+            </closer>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
